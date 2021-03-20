@@ -2,7 +2,7 @@
 
 namespace BroadcastServer
 {
-    class Program
+    class Server
     {
         static void Main(string[] args)
         {
